@@ -1,6 +1,6 @@
 # Internship_VSD
 
-This repository contains my work for the **VSD Embedded Firmware Internship**.
+This repository contains my work for the **RISC-V Embedded Firmware Internship**.
 
 Each task is organized in a separate folder and includes explanations,
 screenshots, and code as required.
